@@ -1,0 +1,21 @@
+>Overview: 
+language translator project offers a convenient and efficient solution for users who need to translate text between English and  different languages.
+>Importance: 
+these tools are essential for global business, travel, and access to information in different languages.
+>The Need for Language Translation:
+Many individuals and businesses face challenges in effectively communicating across language barriers language translator project aims to facilitate effective communication and bridge language barriers for individuals and organizations worldwide.
+>Objectives:
+ -To create a user-friendly and efficient language translation tool that can be easily used by individuals and businesses.
+ -To address the limitations of existing translation tools by offering additional features and functionalities.
+ -To facilitate effective communication and bridge language barriers for individuals and organizations worldwide.
+ -To provide accurate and reliable translations between a wide range of languages.
+>Tools and Technologies:
+ -Programming Language(Python): The project is written in Python which is a popular and having extensible libraries.
+ -GUI Library(Tkinter): Tkinter is a Python library built-in to most Python installations. 
+ -Translation Library(Googletrans): The project utilizes the googletrans library, which provides an easy-to-use interface for initeracting with the Google Translate API.
+>Steps Involved in the Project:
+ -Import necessary libraries
+ -Set up the translator
+ -Process input and output
+ -Display available languages
+ -Translate text based on user input
